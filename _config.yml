@@ -40,7 +40,7 @@ baseurl: "/eeoonn_blog" # the subpath of your site, e.g. "/blog".
 minima:
   social_links:
     #twitter: fastdotai
-    github: "https://github.com/Jaeeon-Park"
+    github: "Jaeeon-Park"
 
 # Set this to true to get LaTeX math equation support
 use_math: 
